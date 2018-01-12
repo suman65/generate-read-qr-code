@@ -1,0 +1,11 @@
+logging:
+  level:
+    ROOT: INFO
+    org.springframework.web: INFO
+    org.hibernate: INFO
+
+server:
+  port: 8092
+  contextPath: /QRCODE
+
+
